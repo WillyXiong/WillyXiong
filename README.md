@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @WillyXiong
-- 👀 I’m interested in learning front end development!
-- 🌱 I’m currently learning java in school, html and css.
-- 💞️ I’m looking to collaborate on students to learn together.
+- 👋 Hi, I’m Willy Xiong
+- 👀 I’m interested in learning more about front end development!
+- 🌱 I’m currently learning html and css on my own. Just finished my introductions to java courses last semester.
 - 📫 How to reach me xyoojwilly@gmail.com
 
 <!---
