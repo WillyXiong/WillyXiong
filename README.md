@@ -1,8 +1,8 @@
 - Hi, I’m Willy Xiong
 - I’m interested in learning more about front end development!
 - I am pursuing my bachelors of science in Computer Science at the University of North Carolina at Charlotte.
-- I’m currently learning html and css on my own.
-- How to reach me xyoojwilly@gmail.com
+- I am looking for an internship at a tech company in hope to strengthen my leadership skills, team based skills, and coding skills.
+- Contact: xyoojwilly@gmail.com
 
 
 <!---
